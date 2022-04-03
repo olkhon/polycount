@@ -5,7 +5,8 @@
  */
 define(["exports", "layout", "ui", "scene", "animation"], //
 function(exports, layout, ui, scene, animation) {
-    "use strict";
+   //entfernt
+	//"use strict";
 
 	// Animation loop is running Continuously and scene is rendered continuously.
 	// This is set true for animations.
