@@ -50,7 +50,7 @@ require(["dojo", "dojo/parser", "dojo/domReady!"], function(dojo) {
 		// Add one entry for each custom module.
 		// This is, among others, necessary to apply the path parameter.
 		aliases : [
-			["app","/cog1/app"],
+			["app","cog1/app"],
 			["layout","cog1/layout"],
 			["ui","cog1/ui"],
 			["scene","cog1/scene"],
