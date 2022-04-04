@@ -417,7 +417,7 @@ function(exports, dojo, domStyle, app, scenegraph, createScene, animation, raste
 			// (and to cover up (a bit) for edge fighting).
 			if(displayEdges) {
 				raster.scanlineStrokePolygon(vertices, polygon, lineColor3D);
-			}
+			}polycount++;
 		}
 	}
 
