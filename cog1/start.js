@@ -41,7 +41,7 @@ require(["dojo", "dojo/parser", "dojo/domReady!"], function(dojo) {
 			// HTTP-server:
 			// "cog1" : "/Users/felixgers/BHT/src/cog1/cog1_JS_template/cog1"
 			//"cog1" : "/Users/felixgers/BHT/src/cog1/cog1_JS_template/cog1"
-			"cog1" : "/polygon/cog1",
+			"cog1" : "/polycount/cog1",
 			// "cog1" : "file:///U:/BHT/src/cog1/cog1_JS_template"
 			// On same [maybe local] HTTP-server as used to load dojo:
 			//"cog1" : "/BHT/src/cog1/cog1_JS_template/cog1"
